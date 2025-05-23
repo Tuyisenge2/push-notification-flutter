@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27754664043",
+    "project_id": "flutter-notifation",
+    "storage_bucket": "flutter-notifation.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27754664043:android:e93e3cbed836bc5496612e",
+        "android_client_info": {
+          "package_name": "com.example.push_notification_tut"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2xD_XRf4LGzh7TEMsNQS4Fz3dyYBOYYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
